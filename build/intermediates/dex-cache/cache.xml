@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/i/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-9ce69127287de69eead9370a7352b3eae13d51ad.jar" />
+    </item>
+    <item
+        jar="/home/i/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/gson-2.3-574bb384ebe8099d0ef9d6de8aedcbacb4b39a4a.jar" />
+    </item>
+    <item
+        jar="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/classes-b2adf70bb11095d5c7a1dc25ae2705bb098e7436.jar" />
+    </item>
+    <item
+        jar="/home/i/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-41248a51c45e305008e0db91f25e906395741433.jar" />
+    </item>
+    <item
+        jar="/home/i/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-38164eb839bb925c6d934991136befa4ea5c550c.jar" />
+    </item>
+    <item
+        jar="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f9b2ff496eb6b1d09b9a4a022db1b414437469b9.jar" />
+    </item>
+    <item
+        jar="/home/i/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-c60d48b30f7f6e1b37697fc8263b425dabd767e9.jar" />
+    </item>
+    <item
+        jar="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/exploded-aar/com.wrapp.floatlabelededittext/library/0.0.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="157bb83dcbd6863ff36367909a26f9e15a13a8a6">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/classes-f86af53fcc217842159e7a0b6f17579095ae570c.jar" />
+    </item>
+    <item
+        jar="/home/i/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/library-2.4.0-7052f849e53ed53773756c3fe1693d5dbaf7929a.jar" />
+    </item>
+    <item
+        jar="/home/i/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/okio-1.0.0-39472f16ff0f2c0e8d6a9c61cafeb1fa3a1524cd.jar" />
+    </item>
+
+</items>

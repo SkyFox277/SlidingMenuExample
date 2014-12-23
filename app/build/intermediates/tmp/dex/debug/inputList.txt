@@ -1,0 +1,11 @@
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/classes/debug
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-38164eb839bb925c6d934991136befa4ea5c550c.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/classes-f86af53fcc217842159e7a0b6f17579095ae570c.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-9ce69127287de69eead9370a7352b3eae13d51ad.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/okio-1.0.0-39472f16ff0f2c0e8d6a9c61cafeb1fa3a1524cd.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-c60d48b30f7f6e1b37697fc8263b425dabd767e9.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/library-2.4.0-7052f849e53ed53773756c3fe1693d5dbaf7929a.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f9b2ff496eb6b1d09b9a4a022db1b414437469b9.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/gson-2.3-574bb384ebe8099d0ef9d6de8aedcbacb4b39a4a.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-41248a51c45e305008e0db91f25e906395741433.jar
+/home/i/Downloads/Programmierung/google/SlidingMenu/app/build/intermediates/pre-dexed/debug/classes-b2adf70bb11095d5c7a1dc25ae2705bb098e7436.jar
